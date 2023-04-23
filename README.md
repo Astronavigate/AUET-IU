@@ -1,8 +1,8 @@
 # AUET Innovative United
 
 #### Description
-Innovative United
-The best helper for your project.
+Innovative United<br />
+The best helper for your project.<br />
 The best chooses for you.
 
 #### Software Architecture
@@ -11,16 +11,17 @@ Currently unavailable
 
 #### Installation
 
-1.  Download Distribution Installation Files to local location
+1.  Download <a href="https://www.bing.com">Distribution Installation Files</a> to local location
 2.  Run installation files locally
 
 #### Instructions
 
-/tNetworking usage
+Networking usage
 
 #### Contribution
 
 1.  John(Astronavigation)
 
 #### Gitee Feature
-/tCurrently unavailable
+
+Currently unavailable
