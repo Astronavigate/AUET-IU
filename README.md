@@ -1,13 +1,12 @@
 # AUET Innovative United
 
 #### Description
-Innovative United<br />
-The best helper for your project.<br />
-The best chooses for you.
+&emsp;Innovative United<br />
+&emsp;The best helper for your project.<br />
+&emsp;The best chooses for you.
 
 #### Software Architecture
-Software architecture description
-Currently unavailable
+&emsp;Currently unavailable
 
 #### Installation
 
@@ -16,12 +15,12 @@ Currently unavailable
 
 #### Instructions
 
-Networking usage
+&emsp;Networking usage
 
 #### Contribution
 
 1.  John(Astronavigation)
 
-#### Gitee Feature
+#### Github Feature
 
-Currently unavailable
+&emsp;Currently unavailable
